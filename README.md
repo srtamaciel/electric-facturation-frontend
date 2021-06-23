@@ -10,8 +10,6 @@ Aplicación para registrar datos de facturacón eléctrica.
 
 ✅ Cumplidos todos los requisitos, en esta aplicación puede verse toda la información de la base de datos en una tabla. Ésta nos muestra diez elementos y dos botones con los que podemos navegar hacia adelante o atrás. Cada fila cuenta con su propio botón de 'Editar', 'Borrar' y en la parte inferior un botón de 'Añadir datos'.
 
-esto es una prueba
-
 Editar y Añadir datos abren un modal con un formulario donde puedes hacer ambas acciones y posteriormente muestra la tabla actualizada.
 
 ![screenshot-tabla](https://i.ibb.co/2yy48vz/Captura-de-pantalla-2021-06-22-a-las-16-09-50.png)
